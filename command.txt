@@ -1,0 +1,88 @@
+ pwd
+   96  history
+   97  man
+   98  man is
+   99  man 1s
+  100  man Is
+  101  man ls
+  102  ls
+  103  cd Desktop
+  104  cd snap
+  105  cd Videos
+  106  cd /home/mca/snap
+  107  cd /home/mca/Desktop/mca
+  108  mkdir Arya
+  109  cd Arya
+  110  cd ..
+  111  ls
+  112  ls -l
+  113  ls -a
+  114  ls -lt
+  115  ls -ls
+  116  rmdir Arya
+  117  mkdir new
+  118  cd new
+  119  mkdir Arya
+  120  cd new
+  121  cd Arya
+  122  rmdir new
+  123  rm -rf new
+  124  pwd
+  125  cd ~
+  126  rm -rf new
+  127  rm -rf mca
+  128  ls
+  129  cd Desktop
+  130  rmdir mca
+  131  rm -rf mca
+  132  cd cat
+  133  cat arya.txt
+  134  cd desktop
+  135  cd pwd
+  136  pwd
+  137  cd Desktop
+  138  pwd
+  139  cat arya.txt
+  140  touch aswa.txt
+  141  cat>aswami.txt
+  142  cat aswami.txt
+  143  touch f3
+  144  cat arya.txt aswami.txt>f3
+  145  find / -name 'report.docx'
+  146  find / -type -name "yatnam"
+  147  find / -type d  -name "yatnam"
+  148  find /home/mca -size +10M
+  149  mv arya.txt /Desktop/yatnam
+  150  mv arya.txt /Desktop/mca/yatnam
+  151  mv arya.txt /Desktop/mca/yatnam/home/mca/Desktop/yatnam
+  152  mv arya.txt /home/mca/Desktop/yatnam
+  153  mv arya.txt ammu.txt
+  154  cd desktop
+  155  cd Desktop
+  156  pwd
+  157  cd mca
+  158  cd /home/mca/Downloads/ammu
+  159  mv arya.txt ammu.txt
+  160  cd Desktop
+  161  cd ~
+  162  cd Desktop
+  163  mv arya.txt ammu.txt
+  164  cd /home/mca/Desktop/yatnam
+  165  mv arya.txt ammu.txt
+  166  pwd
+  167  cat file.txt file1.txt
+  168  touch file1.txt file2.txt
+  169  tar -cvf archieve.tar file1.txt file2.txt
+  170* tar -czvf archieve.tar
+  171  tar -czvf archieve.tar.gz file1.txt file2.txt
+  172  tar -cjvf archieve.tar.bz2 file1.txt file2.txt
+  173  tar -xvf archieve.tar file1
+  174  tar -xvf archieve.tar file1.txt
+  175  pwd
+  176  touch file3.txt
+  177  tar -czvf archieve.tar.gz file1.txt file2.txt file3.txt
+  178  touch arya1.txt
+  179  tar -rvf archieve.tar arya1.txt
+  180  cat >> file1.txt
+  181  wc file1.txt
+
